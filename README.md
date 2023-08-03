@@ -1,4 +1,4 @@
-# SalimbeniSAFI_6_05062021
+# Piiquante
 
 Avant de lancer le projet, crée un fichier .env dans le dossier backend.
 
